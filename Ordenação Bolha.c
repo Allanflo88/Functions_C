@@ -12,7 +12,7 @@ int main()
     while(troca == 1)
     {
         troca=0;
-        for(cont = 0; cont < 20;cont++)
+        for(cont = 0; cont < 19;cont++)
         {
             if(vetor[cont] > vetor[cont+1])
             {
